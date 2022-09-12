@@ -7,6 +7,7 @@
 <p align="left">
 <a href="https://twitter.com/karlohosting" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karlohosting" height="30" width="40" /></a>
 <a href="https://discord.gg/qS2kcH7Hhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="qS2kcH7Hhu" height="30" width="40" /></a>
+<a href=https://www.instagram.com/karlo_hosting/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karlohosting" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Services we host:</h3>
