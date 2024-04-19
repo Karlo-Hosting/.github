@@ -1,5 +1,5 @@
 <p align="middle">
-<img src="https://cdn.discordapp.com/attachments/589485476399022130/998314538598416494/9693ba73af495c17c8ac2b2ba2cf0db7.png">
+<img src="https://karlo-hosting.com/logo.png">
 <h1 align="center">Hi, we are Karlo-Hosting</h1>
 <h3 align="center">We are currently hosting free Discord Bots and Databases.</h3>
 
