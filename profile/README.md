@@ -1,19 +1,38 @@
-<p align="middle">
-<img src="https://karlo-hosting.com/logo.png">
-<h1 align="center">Hi, we are Karlo-Hosting</h1>
-<h3 align="center">We are currently hosting free Discord Bots and Databases.</h3>
-
-<h3 align="left">Visit us:</h3>
-<p align="left">
-<a href="https://twitter.com/karlohosting" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karlohosting" height="30" width="40" /></a>
-<a href="https://discord.gg/qS2kcH7Hhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="qS2kcH7Hhu" height="30" width="40" /></a>
-<a href=https://www.instagram.com/karlo_hosting/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karlohosting" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://karlo-hosting.com/logo.png" width="200" alt="Karlo-Hosting Logo">
 </p>
 
-<h3 align="left">Services we host:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<h3 align="left">Tutorials:</h3>
-<h4>Java Discord Bot: https://github.com/Karlo-Hosting/JavaDemoBot</h4>
-<h4> JavaScript Discord Bot: https://github.com/Karlo-Hosting/JavaScriptDemoBot </h4>
-<h4>Python Discord Bot: https://github.com/Karlo-Hosting/PythonDemoBot</h4>
+<h1 align="center">Hi, we are Karlo-Hosting</h1>
+<p align="center">
+  <strong>We are currently hosting free Discord Bots and Databases.</strong>
+</p>
 
+---
+
+### 🌐 Follow us
+<table>
+  <tr>
+    <td><a href="https://twitter.com/karlohosting" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a></td>
+    <td><a href="https://discord.gg/qS2kcH7Hhu" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a></td>
+    <td><a href="https://www.instagram.com/karlo_hosting/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a></td>
+  </tr>
+</table>
+
+### 🛠 Services we host
+<table>
+  <tr>
+    <td><a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></td>
+    <td><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></td>
+    <td><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></td>
+    <td><a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a></td>
+  </tr>
+</table>
+
+### 📚 Tutorials
+* **Java Discord Bot:** [Karlo-Hosting/JavaDemoBot](https://github.com/Karlo-Hosting/JavaDemoBot)
+* **JavaScript Discord Bot:** [Karlo-Hosting/JavaScriptDemoBot](https://github.com/Karlo-Hosting/JavaScriptDemoBot)
+* **Python Discord Bot:** [Karlo-Hosting/PythonDemoBot](https://github.com/Karlo-Hosting/PythonDemoBot)
+
+---
+<p align="center">© 2026 Karlo-Hosting</p>
